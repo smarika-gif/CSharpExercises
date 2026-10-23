@@ -3,5 +3,9 @@
     <File Path="README.md" />
     <File Path="Øvelser.md" />
   </Folder>
+  <Project Path="akronymer/akronymer.csproj" Id="17c1f3eb-d222-4093-8afb-fc850dc931d8" />
+  <Project Path="Baglæns-Dictionary/Baglæns-Dictionary.csproj" Id="183e8a1d-e947-489c-aa98-aa064de372d7" />
+  <Project Path="find-Intervaller/find-Intervaller.csproj" Id="a30ff821-e8f3-4061-8636-154e2cd22e6b" />
   <Project Path="Multiplikationstabel/Multiplikationstabel.csproj" />
+  <Project Path="SumLigning/SumLigning.csproj" Id="bd57b48e-e5eb-4594-a8c3-07549a2b5a07" />
 </Solution>
